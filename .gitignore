@@ -1,0 +1,29 @@
+# Configuration
+config/config.php
+
+# Logs
+logs/
+*.log
+
+# Session files
+temp/
+session/
+
+# Composer
+vendor/
+composer.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Excel files
+*.xlsx
+*.xls
